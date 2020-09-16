@@ -7,4 +7,8 @@ The purpose of this project was to compare the performace of a certain drug of i
 ## Measurement
 Each mouse had one of 10 drug regimen's administered prior to taking it's tumor volume measurements. Then, each mouse had it's tumor volume measured at 10 different timepoints. Final tumor volume was used as an indicator of whether a drug was successful or not in treating SCC.
 ## Results
-Statistical summaries suggest that Capomulin may be a superior drug regimen over the other treatments.
+Statistical summaries suggest that Capomulin may be a superior drug regimen over the other treatments. Of the four most promising drug regimens, Capomulin and Ramicane had the lowest mean final tumor volume.
+
+![Boxplots](Images/Boxplots.JPG)
+
+![Descriptive_Stats](Images/Descriptive_Stats.jpg)
