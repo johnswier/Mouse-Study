@@ -12,3 +12,5 @@ Statistical summaries suggest that Capomulin may be a superior drug regimen over
 ![Boxplots](Images/Boxplots.JPG)
 
 ![Descriptive_Stats](Images/Descriptive_Stats.JPG)
+
+## Changes in tumor vol
